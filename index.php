@@ -1,0 +1,2 @@
+<?php
+echo 'segunda prueba';
